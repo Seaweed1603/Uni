@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/wordle/633e9a81c29c03d482598cde/guess
+content-type: application/json
+
+{
+  "guess": "insel"
+}
